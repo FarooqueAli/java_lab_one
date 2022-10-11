@@ -1,4 +1,6 @@
 
+//Farooque Shahani
+//roll number 35
 //operators
 class Question3{
 public static void main(String[] args) {
