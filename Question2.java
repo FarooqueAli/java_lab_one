@@ -1,5 +1,6 @@
 
 //even & odd
+//Farooq shahai
 
 
 
