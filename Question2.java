@@ -1,6 +1,7 @@
 
 //even & odd
-//Farooq shahai
+//Farooque Shahani
+// Roll number 35
 
 
 
